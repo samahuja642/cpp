@@ -1,8 +1,3 @@
-#include<iostream>
-#include"burrito.h"
-using namespace std;
-int main()
-{
-    timepass t1;   
-    return 0;
-}
+const void function2(){
+    //     a=489;
+    // }
