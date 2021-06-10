@@ -1,0 +1,51 @@
+What are applications of C++ language?
+
+Answer:
+
+1) Games
+
+C++ is close to the hardware, can easily manipulate resources, provide procedural programming over CPU intensive functions and is fast. It is also able to override the complexities of 3D games and provides multi-layer networking. All these benefits of C++ make it a primary choice to develop the gaming systems as well as game development suites.
+
+2) GUI Based Applications
+
+C++ can be used to develop most of the GUI based and desktop applications easily as it has got the required features.
+
+3) Database Software
+
+C++ is also used in writing database management software. The two most popular databases MySQL and Postgres are written in C++.
+
+4) Operating Systems
+
+The fact that C++ is a strongly typed and fast programming language makes it an ideal candidate for writing operating systems. In addition to this, C++ has a wide collection of system-level functions that also help in writing low-level programs.
+
+5) Browsers
+
+Browsers are mostly used in C++ for rendering purposes. Rendering engines need to be faster in execution as most people do not like to wait for the web page to be loaded. With the fast performance of C++, most browsers have their rendering software written in C++.
+
+6) Advanced Computation And Graphics
+
+C++ is useful in developing an application that requires high-performance image processing, real-time physical simulations, and mobile sensor applications that need high performance and speed.
+
+7) Banking Applications
+
+As C++ aids in concurrency, it becomes the default choice for banking applications that require multi-threading, concurrency, and high performance.
+
+8) Cloud/Distributed System
+
+Cloud storage systems that are extensively used nowadays work close to the hardware. C++ becomes a default choice for implementing such systems as it is close to the hardware. C++ also provides multithreading support that can build concurrent applications and load tolerance.
+
+9) Compilers
+
+Compilers of various high-level programming languages are written either in C or C++. The reason is that both C and C++ are low-level languages that are close to hardware and are able to program and manipulate the underlying hardware resources.
+
+10) Embedded Systems
+
+Various embedded systems like smartwatches, medical equipment systems use C++ to program as it is closer to the hardware level and can provide a lot of low-level function calls when compared to the other high-level programming languages.
+
+11) Enterprise Software
+
+C++ is used in developing many enterprise software as well as advanced applications like flight simulation and radar processing.
+
+12) Libraries
+
+When we require very high-level mathematical computations, performance and speed become important. Hence most of the libraries use C++ as their core programming language. Most high-level machine language libraries use C++ as backend.

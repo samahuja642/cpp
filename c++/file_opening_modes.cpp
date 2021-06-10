@@ -3,6 +3,7 @@
 // ios::in	opens a text file for reading.
 // ios::out	opens a text file for writing.
 // ios::trunc	truncates the content before opening a file, if file exists.
+// ios::binary binary file
 #include<iostream>
 #include<fstream>
 using namespace std;
